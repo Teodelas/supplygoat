@@ -4,6 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 # require "blueprinter/version"
 
 # Describe your gem and declare its dependencies:
+# Test
 Gem::Specification.new do |s|
   s.name        = "blueprinter"
   s.version     = "1.1.1"
